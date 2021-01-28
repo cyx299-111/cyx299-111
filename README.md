@@ -1,7 +1,7 @@
 ### Hi there 👋
-·大家寒假快乐/
-·我叫陈奕璇，希望未来头发可以越来越多
-·好好学习，努力工作
+- 大家寒假快乐
+- 我叫陈奕璇，希望未来头发可以越来越多
+- 好好学习，努力工作
 <!--
 **cyx299-111/cyx299-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
